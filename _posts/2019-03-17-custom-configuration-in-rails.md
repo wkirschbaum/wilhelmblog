@@ -42,7 +42,7 @@ class Application < Rails::Application
 end
 ```
 
-Not it is possible to reference your new configuration anywhere within your Rails
+Now it is possible to reference your new configuration anywhere within your Rails
 application.  In this case I will be adding an initializer file called
 `config/initializers/aws.rb` with the following code
 
