@@ -30,5 +30,10 @@ Refactoring to satisfy Rubocop mechanically, which results in splitting the cont
 levels of abstractions.
 
 
+### Conclusion
+You should not try to write the best code all the time.  Writing perfect code is not possible and you end
+up lying to yourself.  It is good to see where your code needs some work, but rather spend the time when
+it makes sense to you.
+
 ### More habits I have seen
 Littering the code with Rubocop exceptions
