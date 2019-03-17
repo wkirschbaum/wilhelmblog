@@ -24,6 +24,7 @@ github_username:  wkirschbaum
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: /:categories/:title
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
