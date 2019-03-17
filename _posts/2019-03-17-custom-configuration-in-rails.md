@@ -3,7 +3,7 @@ layout: post
 title: Custom configuration in Rails
 date: 2019-03-17 13:04 +0200
 category: articles
-tags: rails, programming
+tags: [rails, programming]
 ---
 
 Often I want to add more configuration to my Rails application, but I want it to be

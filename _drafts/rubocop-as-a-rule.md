@@ -2,7 +2,7 @@
 layout: post
 title: Rubocop as a Rule
 category: articles
-tags: ruby
+tags: [ruby]
 ---
 
 If you have not heard of [Rubocop](https://github.com/rubocop-hq/rubocop), check it out.  It is

@@ -3,7 +3,7 @@ layout: post
 title: Fearing the Rails generator
 date: 2019-03-17 12:36 +0200
 category: articles
-tags: rails, programming
+tags: [rails, programming]
 ---
 
 Rails generators works really well and saves a minute here and there if you remember how to use them.  You can generate a controller
