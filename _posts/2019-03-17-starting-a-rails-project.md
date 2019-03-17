@@ -3,7 +3,7 @@ layout: post
 title: Starting a Rails Project
 date: 2019-03-17 09:32 +0200
 category: articles
-tags: rails programming
+tags: rails, programming
 ---
 
 This is the minimum setup I feel comfortable when starting a new rails project.
@@ -114,8 +114,7 @@ run
 $ rubocop -aR
 ```
 
-and commit your changes to start developing on your awesome project
-
+and commit your changes to start development on your awesome project
 
 
 ### Full initial Gemfile
