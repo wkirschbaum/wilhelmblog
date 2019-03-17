@@ -30,10 +30,22 @@ Refactoring to satisfy Rubocop mechanically, which results in splitting the cont
 levels of abstractions.
 
 
+### Looking at these two scenarios
+The second more harmful than the first, where the first limits the usefulness of Rubocop.
+
+Be okay with Rubocop not thinking that you are perfect.
+
+
 ### Conclusion
 You should not try to write the best code all the time.  Writing perfect code is not possible and you end
 up lying to yourself.  It is good to see where your code needs some work, but rather spend the time when
 it makes sense to you.
+
+The best use of Rubocop I have found is having the constant reminders in your editor.  Breaking a build or
+forcing certain restrictions is not going to be as useful as a good editor integration used by a developer
+who actually understands the importance of these rules.
+
+It can be very damaging to try and follow rules, without understand the underlying reason for it to exist.
 
 ### More habits I have seen
 Littering the code with Rubocop exceptions
