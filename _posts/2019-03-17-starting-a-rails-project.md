@@ -94,6 +94,18 @@ and add a file `.rubocop.yml` in your project root folder
 require: rubocop-rspec
 ```
 
+### Tweak the generators
+
+Add this to your `config/application.rb` file to prevent unnecessary files to be generated automatically, unless you need them.
+
+```ruby
+config.generators do |g|
+    g.helper false
+    g.assets false
+    g.skip_routes true
+end
+```
+
 ### Starting with a clean slate
 
 run
@@ -103,6 +115,7 @@ $ rubocop -aR
 ```
 
 and commit your changes to start developing on your awesome project
+
 
 
 ### Full initial Gemfile
