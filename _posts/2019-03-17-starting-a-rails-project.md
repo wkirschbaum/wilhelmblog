@@ -13,7 +13,7 @@ This is the minimum setup I feel comfortable when starting a new rails project.
 - [rails](https://github.com/rails/rails) Ruby on Rails
 - [annotate_models](https://github.com/ctran/annotate_models) Generates schema data as comments in your code files
 - [rspec-rails](https://github.com/rspec/rspec-rails) A great testing library with many powerful features
-- [factory_bot](https://github.com/thoughtbot/factory_bot) Generates useful factories for testing
+- [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) Generates useful factories for testing
 - [pry](https://github.com/pry/pry) A powerful irb alternative
 - [rubocop](https://github.com/rubocop-hq/rubocop) The ruby style guide as a gem
 - [rubocop-rspec](https://github.com/rubocop-hq/rubocop-rspec) Rspec extensions for rubocop
@@ -33,7 +33,7 @@ We removed Rails testing with the `-T` flag before, so that we can add `rspec`.
 group :development, :test do
     ...
     gem 'rspec-rails'
-    gem 'factory_bot'
+    gem 'factory_bot_rails'
 end
 ```
 
@@ -139,7 +139,7 @@ gem 'bootsnap', '>= 1.4.1', require: false
 
 group :development, :test do
   gem 'byebug'
-  gem 'factory_bot'
+  gem 'factory_bot_rails'
   gem 'rspec-rails', '~> 3.8'
 end
 
