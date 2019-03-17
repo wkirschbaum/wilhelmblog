@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fearing the Rails generators
+title: Fearing the Rails generator
 date: 2019-03-17 12:36 +0200
 category: articles
 tags: rails, programming
