@@ -21,4 +21,4 @@ sleep 7200 && pmset sleepnow
 ```
 [Also on github](https://github.com/wkirschbaum/bin/blob/master/sleepy)
 
-Now whenever I type sleepy in my mac terminal, I am reasonably sure it will sleep in 2 hours.
+Now whenever I type sleepy in my mac terminal, I am reasonably sure it will sleep in 2 hours time.
