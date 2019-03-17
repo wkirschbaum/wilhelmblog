@@ -4,16 +4,18 @@ title: Starting a Rails Project
 date: 2019-03-17 09:32 +0200
 ---
 
-This is the generic steps I follow when setting up a new rails project.
+This is the minimum setup I feel comfortable when starting a new rails project.
 
 ### Links to the gems used in this post
 
+- [rails](https://github.com/rails/rails) Ruby on Rails
 - [annotate_models](https://github.com/ctran/annotate_models) Generates schema data as comments in your code files
 - [rspec-rails](https://github.com/rspec/rspec-rails) A great testing library with many powerful features
 - [factory_bot](https://github.com/thoughtbot/factory_bot) Generates useful factories for testing
 - [pry](https://github.com/pry/pry) A powerful irb alternative
 - [rubocop](https://github.com/rubocop-hq/rubocop) The ruby style guide as a gem
 - [rubocop-rspec](https://github.com/rubocop-hq/rubocop-rspec) Rspec extensions for rubocop
+- [pry-doc](https://github.com/pry/pry-doc) Documentation in the Pry REPL
 
 ### Generate the necessary Rails files
 
