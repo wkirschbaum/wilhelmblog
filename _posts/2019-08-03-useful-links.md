@@ -15,7 +15,7 @@ tags: [emacs]
 - [Emacs SF](https://www.youtube.com/channel/UCFk8kgNu_bqsRZewxMGqkzQ)
 
 ### Hints
-- [Version hints](http://lgfang.github.io/mynotes/emacs/emacs-vc.html)
+- [Version Control hints](http://lgfang.github.io/mynotes/emacs/emacs-vc.html)
 
 ### Packages
 - [Org Journal](https://github.com/bastibe/org-journal "Org Journal")
